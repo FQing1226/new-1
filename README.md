@@ -1,4 +1,4 @@
-# new-1
+# cBit
 艾瑞奇基于micro:bit 控制器的扩展库（天津艾瑞奇教育科技有限公司）
 
 ## License
